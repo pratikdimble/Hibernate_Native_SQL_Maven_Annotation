@@ -1,0 +1,1 @@
+# Hibernate_Native_SQL_Maven_Annotation
